@@ -1,0 +1,19 @@
+---
+title: "Lab 2"
+author: Your Name
+format: typst
+editor: visual
+---
+
+```{r}
+#| label: load-packages
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(stat20data)
+```
+
+### Question 1
+
+
