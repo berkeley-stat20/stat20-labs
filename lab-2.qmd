@@ -1,5 +1,5 @@
 ---
-title: "Lab 2"
+title: "Lab 2:"
 author: Your Name
 format: typst
 editor: visual
@@ -15,5 +15,3 @@ library(stat20data)
 ```
 
 ### Question 1
-
-
