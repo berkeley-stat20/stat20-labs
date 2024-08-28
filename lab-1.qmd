@@ -19,8 +19,6 @@ library(stat20data)
 ```{r}
 #| label: plot-yearly-yes-issue
 #| message: false
-#| fig-width: 10
-#| fig-height: 6
 
 unvotes |>
   filter(country %in% c("United Kingdom", "United States", "Turkey")) |>
@@ -31,7 +29,6 @@ unvotes |>
   geom_smooth(method = "loess", se = FALSE) +
   facet_wrap(~issue) +
   labs(title = "Percentage of 'Yes' votes in the UN General Assembly",
-       subtitle = "1946 to 2019",
        y = "Proportion Yes",
        x = "Year",
        color = "Country") +
