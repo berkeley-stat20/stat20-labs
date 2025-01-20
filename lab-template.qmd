@@ -1,5 +1,5 @@
 ---
-title: "Lab 2:"
+title: "Lab (Lab number): (Lab title)"
 author: Your Name
 format: typst
 editor: visual
