@@ -16,6 +16,18 @@ library(stat20data)
 
 ### Question 1
 
+### Question 2
+
+### part a
+
+### part b
+
+### part c
+
+### Question 3
+
+### Question 4
+
 ```{r}
 #| label: plot-yearly-yes-issue
 #| message: false
@@ -35,8 +47,8 @@ unvotes |>
   theme(legend.position = "bottom")
 ```
 
-### Question 2
+### part a
 
-### Question 3
+### part b
 
-### Question 4
+### part c
