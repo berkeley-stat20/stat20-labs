@@ -1,0 +1,79 @@
+---
+title: "Lab 2: Class Survey"
+author: Your Name
+format: typst
+editor: visual
+---
+
+```{r}
+#| label: load-packages
+#| warning: false
+#| message: false
+
+library(tidyverse)
+```
+
+## Question 1
+
+### part a
+
+### part b
+
+## Question 2
+
+### part a
+
+### part b
+
+### part c
+
+## Question 3
+
+### part a
+
+### part b
+
+### part c
+
+## Question 4
+
+### part a
+
+### part b
+
+## Question 5
+
+### part a
+
+### part b
+
+### part c
+
+## Question 6
+
+### part a
+
+### part b
+
+### part c
+
+### part d
+
+## Question 7
+
+### part a
+
+### part b
+
+### part c
+
+### part d
+
+## Question 8
+
+### part a
+
+### part b
+
+
+
