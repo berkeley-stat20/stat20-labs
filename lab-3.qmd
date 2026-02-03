@@ -28,6 +28,8 @@ library(stat20data)
 
 ### part c
 
+### part d
+
 ## Question 3
 
 ## Question 4
